@@ -8,5 +8,5 @@ Basado en el repositorio [ECHO] (https://github.com/toddmedema/echo)
 4. pip install -r requerimientos.txt
 4. python example-minimal.py
 6. Decirle a alexa , "discover my devices"
-7. Usar en alexa "turn off device" and "device on" en la cosola se mostrara True/False
+7. Decirle a alexa "turn off computer" and "computer on" y en la cosola se mostrara True/False dependiendo de lo que dijo
 
